@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,svip.czzyplay.com
-  - DOMAIN-SUFFIX,jimxtc.com
-  - DOMAIN-SUFFIX,ffzy-online6.com
-  - DOMAIN-SUFFIX,tv.piqy.top
-  - DOMAIN-SUFFIX,stluma.com
-  - DOMAIN-SUFFIX,catbox.moe
-  - DOMAIN-SUFFIX,c-net.org
-  - DOMAIN-SUFFIX,uguu.se
+  - +.svip.czzyplay.com
+  - +.jimxtc.com
+  - +.ffzy-online6.com
+  - +.tv.piqy.top
+  - +.stluma.com
+  - +.catbox.moe
+  - +.c-net.org
+  - +.uguu.se
